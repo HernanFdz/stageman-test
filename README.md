@@ -16,4 +16,4 @@ TODO: Add usage examples.
 
 ## License
 
-TODO: Add license information.
+MIT
